@@ -11,10 +11,19 @@ A deep learning-based project that predicts stock prices using historical data a
 ### 📊 Stock Market Price Prediction Visuals
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepo/assets/screenshot1.png" alt="Stock Price Input" width="30%" />
-  <img src="https://github.com/yourusername/yourrepo/assets/screenshot2.png" alt="Model Training Graph" width="30%" />
-  <img src="https://github.com/yourusername/yourrepo/assets/screenshot3.png" alt="Prediction Output" width="30%" />
+  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img1.png" 
+       alt="Model Training Input: Class Distribution (Down: 59.1%, Up: 40.9%)" 
+       width="30%" />
+       
+  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img2.png" 
+       alt="Feature Correlation Heatmap: Shows relationships among Open, High, Low, Close, Volume." 
+       width="30%" />
+       
+  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img3.png" 
+       alt="Reliance Stock Price Prediction: Line chart showing forecasted price trend." 
+       width="30%" />
 </p>
+
 
 ---
 
