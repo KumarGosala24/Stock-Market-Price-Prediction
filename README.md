@@ -10,19 +10,35 @@ A deep learning-based project that predicts stock prices using historical data a
 
 ### 📊 Stock Market Price Prediction Visuals
 
+## 🚀 Demo
+
+### 📊 Stock Market Prediction Visualizations
+
 <p align="center">
-  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img1.png" 
+  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img1.png?raw=true" 
        alt="Model Training Input: Class Distribution (Down: 59.1%, Up: 40.9%)" 
        width="30%" />
        
-  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img2.png" 
+  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img2.png?raw=true" 
        alt="Feature Correlation Heatmap: Shows relationships among Open, High, Low, Close, Volume." 
        width="30%" />
        
-  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img3.png" 
+  <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/ae893f6e5eafd1586bc978d329fdb3c809a46ef4/Images/Img3.png?raw=true" 
        alt="Reliance Stock Price Prediction: Line chart showing forecasted price trend." 
        width="30%" />
 </p>
+
+### 📌 Image Descriptions
+
+1. **Class Distribution Pie Chart**  
+   - 🔵 Label 0 (Price Down): 59.1%  
+   - 🟠 Label 1 (Price Up): 40.9%
+
+2. **Feature Correlation Heatmap**  
+   - Visualizes relationships among stock features like **Open**, **High**, **Low**, **Close**, and **Volume**.
+
+3. **Reliance Stock Price Forecast**  
+   - A line plot showing **predicted price trend** for Reliance stock over time.
 
 
 ---
