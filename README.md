@@ -8,10 +8,6 @@ A deep learning-based project that predicts stock prices using historical data a
 
 ## 🚀 Demo
 
-### 📊 Stock Market Price Prediction Visuals
-
-## 🚀 Demo
-
 ### 📊 Stock Market Prediction Visualizations
 
 <p align="center">
