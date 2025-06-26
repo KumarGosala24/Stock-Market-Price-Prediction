@@ -1,6 +1,6 @@
 # 📈 Stock Market Price Prediction using LSTM
 
-![Stock Image](https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/8156c9fc8a67d0c94e9e1901bb62af07a43926b9/Images/StockImg.jpg?raw=true)
+![Stock Image](https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/41743e43604f1231148e83bcfae9bcaea2132ec0/Images/Stock.avif)
 
 A deep learning-based project that predicts stock prices using historical data and Long Short-Term Memory (LSTM) neural networks. This project demonstrates the power of time-series forecasting in the financial domain.
 
