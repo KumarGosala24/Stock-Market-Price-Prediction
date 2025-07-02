@@ -24,6 +24,13 @@ A deep learning-based project that predicts stock prices using historical data a
        width="30%" />
 </p>
 
+
+####  Before vs After Technical Indicators:
+<p align="center"> <img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/33b9184033fbe41132519e87ee5619b6426e9875/Images/IMG.png" alt="Stock Price Prediction Before Adding Technical Indicators" width="45%" />
+<img src="https://github.com/KumarGosala24/Stock-Market-Price-Prediction/blob/33b9184033fbe41132519e87ee5619b6426e9875/Images/IMAGE.png" alt="Stock Price Prediction After Adding Technical Indicators" width="45%" />
+
+</p>
+
 ### 📌 Image Descriptions
 
 1. **Class Distribution Pie Chart**  
